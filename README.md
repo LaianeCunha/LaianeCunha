@@ -25,4 +25,4 @@ Sinta-se à vontade para o networking profissional:
 | Gmail      | <laianecunha20@gmail.com>
 
 
-
+OBS: Esta em construção e melhoramento. A partir do dia 25/06/2024. Obrigada pela compreensão 
