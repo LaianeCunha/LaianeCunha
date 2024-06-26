@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo!👋🏻
 
-Aqui você irá conhecer um pouco do que venho trabalhando.
+### Aqui você irá conhecer um pouco do que venho trabalhando.
 
 Sou **Laiane Cunha**, mineira *"uai"*. Onde você anda em partes que se chama estrada de chão,
 pois não há asfalto e quando chove você anda em lama.
@@ -16,15 +16,14 @@ Estou cursando pós-graduação em Automação de Testes e sempre buscando novos
 Venho estudando automação framework Cypress com a linguagem voltada para 
 JavaScript, mas realizando cursos em linguagem Java, Python e afins. 
 
-Sinta-se à vontade para o networking profissional e saber um pouco mais onde atuei:
+- Sinta-se à vontade para o networking profissional e saber um pouco mais onde atuei:
 
-| LinkedIn 
-|
-<https://www.linkedin.com/in/laiane-cunha-455797162/>
+    | LinkedIn 
+    |
+    <https://www.linkedin.com/in/laiane-cunha-455797162/>
 
-Caso queira entrar em contato:
+- Caso queira entrar em contato:
 
-| Gmail      | <laianecunha20@gmail.com>
+    | Gmail      | <laianecunha20@gmail.com>
 
-
-OBS: Está em construção e melhoramento. A partir do dia 25/06/2024. Obrigada pela compreensão 
+  OBS: Está em construção e melhoramento. A partir do dia 25/06/2024. Obrigada pela compreensão 
