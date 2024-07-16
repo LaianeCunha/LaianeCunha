@@ -16,7 +16,7 @@ Estou cursando pós-graduação em Automação de Testes e sempre buscando novos
 Venho estudando automação framework Cypress com a linguagem voltada para 
 JavaScript, mas realizando cursos em linguagem Java, Python e afins. 
 
-- Sinta-se à vontade para o networking profissional e saber um pouco mais onde atuei:
+- Sinta-se à vontade para o networking profissional e saber um pouco mais onde atuei e venho aprendendo:
 
     | LinkedIn 
     |
