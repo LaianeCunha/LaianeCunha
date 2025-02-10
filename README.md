@@ -28,7 +28,8 @@ Tenho as experiências:
 12. Jira;
 13. Visual Studio;
 14. Escrita e mapeamento
-15. ....
+15. BDD com a gramatica Gherkin
+16. ...
 
 Venho estudando:
 1. automação framework Cypress com a linguagem voltada para JavaScript;
@@ -43,5 +44,3 @@ Venho estudando:
 - Caso queira entrar em contato:
 
     | Gmail      | <laianecunha20@gmail.com>
-
-  OBS: Está em construção e melhoramento. A partir do dia 25/06/2024. Obrigada pela compreensão 
